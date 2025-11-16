@@ -1,3 +1,5 @@
+// TODO: Add Firebase authentication in the next phase of the project
+
 console.log("Flashcards MVP Loaded - Firebase coming later");
 
 // Login Section
